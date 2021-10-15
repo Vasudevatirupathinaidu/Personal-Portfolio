@@ -13,6 +13,6 @@ The project will be re-designed with ReactJS and Django.
 - Javascript
 - HTML5/CSS3
 
-# Home Page
+# Portfolio
 
 <img src="./images/portfolio.png">
